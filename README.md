@@ -5,3 +5,4 @@ This is a shell script as a BAT file for Windows that makes you do FUS + Wireles
 Note that for using this script, you have to install the  STM32CubeProgrammer software and then run it.
 
 This exmaple works on STM32WB55CG, but you can run it on any STM32 MCUs with FUS inside.
+Just replace your firmware with the Firmware.hex file or update FUS or Stack hex files as needed.
